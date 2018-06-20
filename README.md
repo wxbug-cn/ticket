@@ -36,3 +36,4 @@
 * http://rootadmin.cn/
 * http://www.cjplus.cn/c01/
 * http://www.mianbei.pw/
+* https://m.juzich.cn/sdk/demo.php
