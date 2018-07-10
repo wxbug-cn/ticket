@@ -1,4 +1,6 @@
 # 收藏一些微信里面的黑科技记录下
+上传地址为 storage.jd.com
+storage.jd.com
 
 ### 2018-07-03 最新功能 (后台直接上传二维码)
 - 网址：https://wxbug.cn/
