@@ -33,7 +33,6 @@ storage.jd.com
 >手机网页浏览器跳转到微信内置浏览器翻开指定网页,微保,gel微信跳转链接,跳转功能,静默关注，wesure.cn 自动关注微信号，自动关注微信公众号，微信一键重视,网页跳转到微信,浏览器跳转微信链接,微信跳转源码,微信跳转,微信跳转ticket,ticket,weixin://dl/business/? ticket=,跳转到微信,翻开微信,微信内部,跳转微信,第三方浏览器跳转微信，wxapkg解压，小程序解压，域名跳转系统， WAP跳转到微信，wap跳转到微信,跳转到微信,微信解封,个人号解封，公众平台解封，微信监听检查，跳转到微信接口,关注个人号，直接关注公众号，京东，艺龙,京东卖家账号出售,京东商家账号出售,京东商家跳转,https://lp.jd.com/page/, https://wqs.jd.com/weidian/
 
 其它跳转平台：
-* http://www.seoniao.com/
 * http://vip.wxticket.com/login.php
 * http://wx.rrbay.com/price2.html      
 * https://github.com/WXTICKET/weixin-ticket
@@ -41,6 +40,7 @@ storage.jd.com
 * http://wx.api-export.com/
 * http://weixin.ioptis.cn/help.html
 * http://rootadmin.cn/
+* http://www.seoniao.com/
 * http://www.cjplus.cn/c01/
 * http://www.mianbei.pw/
 * https://m.juzich.cn/sdk/demo.php
