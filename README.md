@@ -30,9 +30,7 @@ storage.jd.com
 
 其它跳转平台：
 * http://vip.wxticket.com/login.php
-* http://wx.rrbay.com/price2.html      
 * https://github.com/WXTICKET/weixin-ticket
-* http://api.weixin139.com/wap2wx.html
 * http://wx.api-export.com/
 * http://weixin.ioptis.cn/help.html
 * http://rootadmin.cn/
